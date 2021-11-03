@@ -1,7 +1,8 @@
 # Renty
 
 A web3.0 ready rental marketplace - inspired by Mercari and Rarible.\
-Please visit the site [here](http://13.212.157.177/#/)!
+You can rent and borrow items using credit card and ethereum.
+Please visit the site [here](http://rentyhq.com/#/)!
 
 ![home](./home.png)
 ![home](./marketplace.png)
@@ -31,3 +32,9 @@ npm run dev
 [React-carousel](https://www.npmjs.com/package/@brainhubeu/react-carousel)
 [Redux](https://redux.js.org/)\
 [Stripe API](https://stripe.com/docs/api)
+
+## Authors
+
+- [Mikio](https://github.com/eremitik)
+- [Michael](https://github.com/vyridian17)
+- [Alisher](https://github.com/AlisherU)
